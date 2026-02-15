@@ -2,7 +2,7 @@
 
 > Building real solutions. Learning by doing.
 
-NullPoint HQ is a college coding club focused on innovation, collaboration, and solving meaningful real-world problems.
+NullPoint HQ is a coding club focused on innovation, collaboration, and solving meaningful real-world problems.
 
 ---
 
