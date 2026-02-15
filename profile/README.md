@@ -97,7 +97,7 @@ To evolve into a nationally recognized student engineering community known for:
 ## 📬 Connect
 
 Website: Coming Soon  
-LinkedIn:   
+LinkedIn: https://www.linkedin.com/company/null-point/
 Email: nullpoint.dev.official@gmail.com  
 
 ---
