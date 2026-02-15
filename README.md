@@ -1,54 +1,49 @@
-# NULLPOINT // HQ
+# NullPoint HQ
 
-> initializing innovation...
+> Building real solutions. Learning by doing.
 
-NullPoint HQ is a collective of builders, hackers, and problem-solvers.
-
-We operate at the intersection of:
-- code
-- creativity
-- chaos
-- real-world impact
+NullPoint HQ is a college coding club focused on innovation, collaboration, and solving meaningful real-world problems.
 
 ---
 
-## >> mission.log
+## What We Do
 
-- host_hackathons();
-- compete_nationally();
-- build_real_world_systems();
-- solve_major_problems(nationwide);
-- push_limits();
-
----
-
-## >> domains.active
-
-[ web ]  
-[ mobile ]  
-[ ai/ml ]  
-[ systems ]  
-[ automation ]  
-[ civic-tech ]
+- Host and participate in hackathons  
+- Organize tech events & workshops  
+- Build projects that solve real societal challenges  
+- Collaborate on nationwide problem-solving initiatives  
 
 ---
 
-## >> philosophy
+## Our Focus
 
-Every system starts at null.
-
-From zero,
-we architect change.
-
----
-
-## >> join_the_network
-
-if (you.areCurious()) {
-    nullpoint.add(you);
-}
+- Practical innovation  
+- Open collaboration  
+- Technical excellence  
+- Impact-driven development  
 
 ---
 
-NULLPOINT HQ  
-// build. break. rebuild. scale.
+## Core Areas
+
+Web • Mobile • AI/ML • Systems • Automation • Civic Tech
+
+---
+
+## Philosophy
+
+Start from zero.  
+Build with intent.  
+Ship with impact.
+
+---
+
+## Join Us
+
+Whether you're a beginner or an experienced developer —  
+there’s always space to build something meaningful together.
+
+---
+
+**NullPoint HQ**  
+*Code. Collaborate. Create.*
